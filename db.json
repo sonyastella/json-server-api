@@ -1,0 +1,10 @@
+{
+  "catalogue": [
+    { "id": 1, "name": "Royal Velvet Bouquet", "price": "Rp. 2,800,000", "image": "https://your-vercel-url/images/flower2.png" },
+    { "id": 2, "name": "Romantic Blushing Petals", "price": "Rp. 1,000,000", "image": "https://your-vercel-url/images/flower3.png" },
+    { "id": 3, "name": "Beautiful Rainbow Baby Breathe", "price": "Rp. 1,650,000", "image": "https://your-vercel-url/images/flower4.png" },
+    { "id": 4, "name": "Pink Blush Baby Breathe Bouquet", "price": "Rp. 1,650,000", "image": "https://your-vercel-url/images/flower5.png" },
+    { "id": 5, "name": "Azure Elegance Bouquet", "price": "Rp. 2,800,000", "image": "https://your-vercel-url/images/flower6.png" },
+    { "id": 6, "name": "Ocean Blue Baby Breathe Bouquet", "price": "Rp. 1,650,000", "image": "https://your-vercel-url/images/flower7.png" }
+  ]
+}
